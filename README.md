@@ -9,20 +9,19 @@ Un magasin de vêtements est un espace commercial dédié à la vente d’habits
 
 # Must have
 
-- [x] Présentation soignée des articles sur des portants, mannequins ou étagères
-- [x] Ambiance agréable avec musique, éclairage et décoration adaptée au style de la marquee photo/vidéo, et la localisation.
-- [x] L’utilisateur peut recevoirPersonnel accueillant et disponible pour conseiller les clients.
+- [x]Page d'inscription.
+- [x] Page de connection
+- [x] Page de description des articles.
+- [x] Page de couverture.
+- [x] Page des prix et achats
 
-# Maybe
+# Mayber les clients.
 
-- [x] L’utilisateur peut confirmer une alerte signalée par un autre citoyen.
-- [ ] L’utilisateur peut modifier ou supprimer ses propres alertes.
-- [ ] L’utilisateur peut filtrer les alertes par type d’incident.
-- [x] L’utilisateur peut avoir un profil personnel.
-- [x] L’utilisateur peut modifier son profil personnel(Photo, Username, Email, Password)
-- [ ] L'utilisateur peut voir l’historique de ses alertes envoyées.
-
-
+- [ ] Présentation soignée des articles sur des portants, mannequins ou étagères
+- [ ] Ambiance agréable avec musique, éclairage et décoration adaptée au style de la marque
+- [ ] Personnel accueillant et disponible pour conseiller les clients
+- [ ]  Systèmes de fidélité ou promotions pour encourager les achats
+      
 # Would be nice to have
 - [ ] L'utilisateur peut changer la langue(Creole --> Francais; Francais --> Creole).
 - [ ] L'utilisateur peut changer le thème de l'appli(Light/Dark).
