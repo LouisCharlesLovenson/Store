@@ -34,5 +34,5 @@ Un magasin de vêtements est un espace commercial dédié à la vente d’habits
 # Prototype Figma
 https://www.figma.com/design/QPrcrus2kpvCrumnoq4kh2/Projet-Final?node-id=0-1&t=64gCLyzVxTfbTBFe-1
 
-<img src="iPhone 16 Pro - 1.jpg" width=200>  <img src="iPhone 16 Pro - 2.jpg" width=200>  <img src="iPhone 16 Pro - 3.jpj" width=200>  <img src="iPhone 16 Pro - 4.jpj" width=200>  <img src="iPhone 16 Pro - 5.jpj" width=200>  
+<img src="iPhone 16 Pro - 1.jpg" width=200>  <img src="iPhone 16 Pro - 2.jpg" width=200>  <img src="iPhone 16 Pro - 3.jpg" width=200>  <img src="iPhone 16 Pro - 4.jpg" width=200>  <img src="iPhone 16 Pro - 5.jpg" width=200>  
 
